@@ -1,1 +1,2 @@
-console.log("MASTER")
+
+console.log("MASTER CHILD")
