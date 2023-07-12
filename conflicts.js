@@ -1,1 +1,1 @@
-console.log("MASTER BRANCH")
+console.log("MASTER")
